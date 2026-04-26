@@ -1,4 +1,4 @@
-# Batur Sunrise Trekking (BST) — Website
+# MOUNTAINT JEEP SUNRISE (MJS) — Website
 
 A modern, responsive, SEO-friendly, bilingual (EN/ID) tour booking website for **Batur Sunrise Trekking**, built with **React + Vite + Tailwind CSS**.
 
