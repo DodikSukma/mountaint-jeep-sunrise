@@ -35,7 +35,7 @@ npm install
 npm run dev
 ```
 
-Visit `http://localhost:5173` — Vite will open automatically.
+Visit `https://jeepsunrisebali.com/` — Vite will open automatically.
 
 ### 3. Build for production
 
@@ -136,9 +136,9 @@ All SEO copy lives under `seo.*` in both locale files. The `SEOHead` component a
 
 ## 📞 Contact
 
-- **Contact Person:** Arik Sandika
+- **Contact Person:** Adi Parwata
 - **Phone / WhatsApp:** +62 812-2860-1710
-- **Address:** Yudistira Street, Bayunggede, Kintamani, Bangli, Bali
+- **Address:** Jalan Raya Sekaan, Bayunggede, Kintamani, Bangli, Bali
 
 ---
 
