@@ -1,0 +1,240 @@
+{
+  "seo": {
+    "title": "Trekking & Jeep Tour Kintamani - Batur Sunrise Trekking",
+    "description": "Nikmati pengalaman trekking sunrise dan jeep tour 4WD di Gunung Batur, Kintamani Bali. Pendakian berpemandu, pemandian air panas alami, dan eksplorasi lava hitam bersama guide lokal profesional. Pesan petualangan Anda sekarang.",
+    "keywords": "Trekking Gunung Batur, Sunrise Kintamani, Tour Trekking Bali, Jeep Tour Batur, Tour Lava Hitam, Air Panas Alami Bali, Pendakian Sunrise Bali, 4WD Kintamani",
+    "og_title": "Batur Sunrise Trekking - Tour Gunung Batur Kintamani, Bali",
+    "og_description": "Trekking sunrise, air panas, dan petualangan jeep 4WD di Gunung Batur. Dipandu guide lokal bersertifikat, pemandangan tak terlupakan."
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "packages": "Paket",
+    "gallery": "Galeri",
+    "location": "Lokasi",
+    "book": "Pesan Sekarang"
+  },
+  "hero": {
+    "badge": "Petualangan di Kintamani, Bali",
+    "title_1": "Saksikan Matahari Terbit di",
+    "title_2": "Gunung Batur",
+    "subtitle": "Pengalaman trekking dan jeep tour tak terlupakan di atas awan, pada ketinggian 1.717 meter di atas permukaan laut.",
+    "cta_primary": "Pesan Petualangan Anda",
+    "cta_secondary": "Lihat Paket Tour",
+    "stats": {
+      "masl": "Meter di Atas Laut",
+      "packages": "Paket Wisata",
+      "experience": "Tahun Pengalaman",
+      "travelers": "Wisatawan Puas"
+    }
+  },
+  "about": {
+    "label": "Tentang Kami",
+    "title": "Batur Jeep Sunrise and Tracking",
+    "p1": "Batur Jeep Sunrise and Tracking (BJST) adalah operator tur lokal yang berbasis di Bayunggede, Kintamani — gerbang menuju salah satu keajaiban alam paling ikonik di Bali: Gunung Batur. Dengan pengalaman bertahun-tahun, guide profesional kami yang bersertifikat siap memberikan petualangan yang aman, autentik, dan tak terlupakan.",
+    "p2": "Baik Anda ingin mendaki ke puncak untuk menyaksikan matahari terbit yang menakjubkan, bersantai di pemandian air panas alami, atau menjelajahi medan vulkanik dengan jeep 4WD, kami telah merancang pengalaman sempurna untuk setiap jenis wisatawan.",
+    "features": {
+      "guides_title": "Guide Bersertifikat",
+      "guides_desc": "Guide lokal bersertifikat trekking yang memahami setiap jalur.",
+      "safety_title": "Keamanan Utama",
+      "safety_desc": "Asuransi, perlengkapan lengkap, dan briefing di setiap tur.",
+      "local_title": "Benar-Benar Lokal",
+      "local_desc": "Dimiliki dan dioperasikan oleh komunitas Kintamani.",
+      "flexible_title": "Paket Fleksibel",
+      "flexible_desc": "Pilihan untuk setiap tingkat, ukuran grup, dan anggaran."
+    }
+  },
+  "packages": {
+    "label": "Paket Tour Kami",
+    "title": "Pilih Petualangan Anda",
+    "subtitle": "Empat paket yang dirancang khusus untuk menyesuaikan ritme, ukuran grup, dan selera petualangan Anda.",
+    "inclusions_label": "Yang Termasuk",
+    "itinerary_label": "Itinerary",
+    "time_label": "Waktu",
+    "duration_label": "Durasi",
+    "book_button": "Pesan via WhatsApp",
+    "view_details": "Lihat Itinerary",
+    "hide_details": "Sembunyikan Itinerary",
+    "from": "Mulai dari",
+    "price_sharing": "Sharing",
+    "price_private": "Private",
+    "per_pax": "/ orang",
+    "min_pax": "Min. 2 Orang",
+    "popular": "Paling Populer",
+    "flexible_time": "Waktu Fleksibel",
+    "p1": {
+      "name": "Sunrise Trekking Gunung Batur",
+      "tagline": "Mendaki ke puncak untuk menyaksikan matahari terbit yang tak terlupakan",
+      "inclusions": [
+        "Tiket Masuk",
+        "Guide Trekking Profesional",
+        "Kopi & Teh",
+        "Sarapan di Puncak",
+        "Asuransi Perjalanan"
+      ],
+      "itinerary": [
+        {
+          "time": "03:00",
+          "desc": "Penjemputan dan transfer langsung ke BASECAMP"
+        },
+        {
+          "time": "03:15",
+          "desc": "Sarapan (Kopi & Teh + Banana Pancake) sambil menikmati api unggun"
+        },
+        {
+          "time": "03:30",
+          "desc": "Menuju titik keberangkatan dan ambil perlengkapan trekking (tongkat, senter)"
+        },
+        {
+          "time": "03:45",
+          "desc": "Tiba di titik keberangkatan, briefing bersama guide profesional kami"
+        },
+        {
+          "time": "04:00",
+          "desc": "Mulai pendakian Gunung Batur"
+        },
+        {
+          "time": "06:00",
+          "desc": "Tiba di puncak — nikmati sunrise dengan sarapan (air mineral & sandwich pisang)"
+        },
+        {
+          "time": "07:00",
+          "desc": "Lanjut berjalan mengelilingi kawah"
+        },
+        {
+          "time": "07:30",
+          "desc": "Mulai turun menuju titik akhir"
+        },
+        {
+          "time": "08:00",
+          "desc": "Tiba di titik akhir, naik mobil"
+        },
+        {
+          "time": "08:45",
+          "desc": "Kembali ke Basecamp — tur selesai"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Air Panas Alami Batur",
+      "tagline": "Bersantai dan rileks di pemandian air panas vulkanik alami",
+      "duration": "2 Jam",
+      "inclusions": [
+        "Tiket Masuk",
+        "Handuk",
+        "Welcome Drink",
+        "Durasi 2 Jam"
+      ]
+    },
+    "p3": {
+      "name": "Jeep Tour Sunrise & Black Lava",
+      "tagline": "Menuju sunrise point dengan 4WD — tanpa perlu mendaki",
+      "inclusions": [
+        "Jeep Maks. 3 Orang (Long Jeep Maks. 5 Orang)",
+        "Private Driver & Jeep",
+        "Tiket Masuk",
+        "Sarapan",
+        "Kopi & Teh",
+        "Asuransi Perjalanan",
+        "Selimut di Dalam Jeep",
+        "Sesi Foto & Video"
+      ],
+      "itinerary": [
+        {
+          "time": "04:00",
+          "desc": "Tiba langsung di Basecamp"
+        },
+        {
+          "time": "04:00",
+          "desc": "Sarapan (Kopi & Teh + Banana Pancake) dan waktu api unggun"
+        },
+        {
+          "time": "04:30",
+          "desc": "Perjalanan ke sunrise viewpoint dimulai dengan Jeep 4WD"
+        },
+        {
+          "time": "05:30",
+          "desc": "Tiba di sunrise viewpoint Gunung Batur"
+        },
+        {
+          "time": "05:45",
+          "desc": "Nikmati sunrise sambil sarapan (air mineral & sandwich pisang box)"
+        },
+        {
+          "time": "06:30",
+          "desc": "Eksplorasi kawasan lava hitam Gunung Batur"
+        },
+        {
+          "time": "07:00",
+          "desc": "Kembali menuju Basecamp"
+        },
+        {
+          "time": "08:00",
+          "desc": "Tiba di Basecamp — tur selesai"
+        }
+      ]
+    },
+    "p4": {
+      "name": "Jeep Tour Black Lava & Black Sand",
+      "tagline": "Petualangan jeep siang hari yang fleksibel melintasi medan vulkanik",
+      "time": "10:00 - 16:00 (Fleksibel)",
+      "inclusions": [
+        "Jeep Maks. 3 Orang (Long Jeep Maks. 5 Orang)",
+        "Private Driver & Jeep",
+        "Tiket Masuk",
+        "Makan Siang / Brunch",
+        "Asuransi Perjalanan",
+        "Selimut di Dalam Jeep",
+        "Sesi Foto & Video"
+      ],
+      "itinerary": [
+        {
+          "time": "Mulai",
+          "desc": "Tiba langsung di Basecamp"
+        },
+        {
+          "time": "Berangkat",
+          "desc": "Perjalanan ke Black Lava dan Black Sand dimulai dengan Jeep 4WD"
+        },
+        {
+          "time": "Lava",
+          "desc": "Waktu menikmati Black Lava Gunung Batur"
+        },
+        {
+          "time": "Pasir",
+          "desc": "Eksplorasi kawasan Black Sand sambil menikmati makan siang"
+        },
+        {
+          "time": "Kembali",
+          "desc": "Kembali menuju Basecamp"
+        },
+        {
+          "time": "Selesai",
+          "desc": "Tiba di Basecamp — tur selesai"
+        }
+      ]
+    }
+  },
+  "gallery": {
+    "label": "Galeri Foto",
+    "title": "Momen dari Gunung",
+    "subtitle": "Sekilas tentang apa yang menanti Anda di Gunung Batur — dari puncak matahari terbit hingga lanskap vulkanik."
+  },
+  "location": {
+    "label": "Temukan Kami",
+    "title": "Lokasi Kami",
+    "subtitle": "Kunjungi basecamp kami di Bayunggede, jantung Kintamani.",
+    "address_label": "Alamat",
+    "contact_label": "Contact Person",
+    "phone_label": "Telepon / WhatsApp",
+    "open_maps": "Buka di Google Maps",
+    "chat_whatsapp": "Chat via WhatsApp"
+  },
+  "footer": {
+    "tagline": "Pemandu terpercaya Anda untuk petualangan Gunung Batur.",
+    "quick_links": "Tautan Cepat",
+    "contact": "Kontak",
+    "follow": "Ikuti Kami",
+    "rights": "Seluruh hak cipta dilindungi."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "seo": {
+    "title": "Kintamani Trekking & Jeep Tour - Batur Sunrise Trekking",
+    "description": "Experience Mount Batur sunrise trekking and 4WD jeep tours in Kintamani, Bali. Guided hikes, natural hot springs, and black lava exploration with professional local guides. Book your adventure today.",
+    "keywords": "Mount Batur Trekking, Kintamani Sunrise, Bali Trekking Tour, Batur Jeep Tour, Black Lava Tour, Natural Hot Spring Bali, Sunrise Hike Bali, 4WD Kintamani",
+    "og_title": "Batur Sunrise Trekking - Mount Batur Tours in Kintamani, Bali",
+    "og_description": "Sunrise trekking, hot springs, and 4WD jeep adventures on Mount Batur. Certified local guides, unforgettable views."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "packages": "Packages",
+    "gallery": "Gallery",
+    "location": "Location",
+    "book": "Book Now"
+  },
+  "hero": {
+    "badge": "Adventure in Kintamani, Bali",
+    "title_1": "Witness the Sunrise on",
+    "title_2": "Mount Batur",
+    "subtitle": "An unforgettable trekking and jeep tour experience above the clouds, at 1,717 meters above sea level.",
+    "cta_primary": "Book Your Adventure",
+    "cta_secondary": "Explore Packages",
+    "stats": {
+      "masl": "Meters Above Sea Level",
+      "packages": "Tour Packages",
+      "experience": "Years of Experience",
+      "travelers": "Happy Travelers"
+    }
+  },
+  "about": {
+    "label": "About Us",
+    "title": "Batur Jeep Sunrise and Tracking",
+    "p1": "Batur Jeep Sunrise and Tracking (BJST) is a local tour operator based in Bayunggede, Kintamani — the gateway to one of Bali's most iconic natural wonders: Mount Batur. With years of experience, our certified professional guides are ready to deliver a safe, authentic, and truly memorable adventure.",
+    "p2": "Whether you wish to hike to the summit for a breathtaking sunrise, relax at natural hot springs, or explore the volcanic terrain by 4WD jeep, we've crafted the perfect experience for every kind of traveler.",
+    "features": {
+      "guides_title": "Certified Guides",
+      "guides_desc": "Trekking-certified local guides who know every trail.",
+      "safety_title": "Safety First",
+      "safety_desc": "Insurance, proper equipment, and briefings for every tour.",
+      "local_title": "Truly Local",
+      "local_desc": "Owned and operated by the Kintamani community.",
+      "flexible_title": "Flexible Packages",
+      "flexible_desc": "Options for every pace, group size, and budget."
+    }
+  },
+  "packages": {
+    "label": "Our Tours",
+    "title": "Choose Your Adventure",
+    "subtitle": "Four carefully designed packages to suit your pace, your group, and your sense of adventure.",
+    "inclusions_label": "What's Included",
+    "itinerary_label": "Itinerary",
+    "time_label": "Time",
+    "duration_label": "Duration",
+    "book_button": "Book via WhatsApp",
+    "view_details": "View Itinerary",
+    "hide_details": "Hide Itinerary",
+    "from": "From",
+    "price_sharing": "Sharing",
+    "price_private": "Private",
+    "per_pax": "/ pax",
+    "min_pax": "Min. 2 Pax",
+    "popular": "Most Popular",
+    "flexible_time": "Flexible Timing",
+    "p1": {
+      "name": "Sunrise Trekking Mount Batur",
+      "tagline": "Hike to the summit for an unforgettable sunrise",
+      "inclusions": [
+        "Entrance Ticket",
+        "Professional Trekking Guide",
+        "Coffee & Tea",
+        "Breakfast on the Summit",
+        "Travel Insurance"
+      ],
+      "itinerary": [
+        {
+          "time": "03:00",
+          "desc": "Pickup and transfer directly to BASECAMP"
+        },
+        {
+          "time": "03:15",
+          "desc": "Breakfast (Coffee & Tea + Banana Pancake) while enjoying the bonfire"
+        },
+        {
+          "time": "03:30",
+          "desc": "Depart for the starting point and receive trekking gear (pole, headlamp)"
+        },
+        {
+          "time": "03:45",
+          "desc": "Arrive at the starting point, briefing with our professional guide"
+        },
+        {
+          "time": "04:00",
+          "desc": "Begin the trek up Mount Batur"
+        },
+        {
+          "time": "06:00",
+          "desc": "Arrive at the summit viewpoint — enjoy sunrise with breakfast (water & banana sandwich)"
+        },
+        {
+          "time": "07:00",
+          "desc": "Continue walking around the crater rim"
+        },
+        {
+          "time": "07:30",
+          "desc": "Begin the descent toward the finishing point"
+        },
+        {
+          "time": "08:00",
+          "desc": "Arrive at the finish point, board the car"
+        },
+        {
+          "time": "08:45",
+          "desc": "Return to Basecamp — tour ends"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Batur Natural Hot Spring",
+      "tagline": "Relax and unwind in natural volcanic hot springs",
+      "duration": "2 Hours",
+      "inclusions": [
+        "Entrance Ticket",
+        "Towel",
+        "Welcome Drink",
+        "Duration 2 Hours"
+      ]
+    },
+    "p3": {
+      "name": "Sunrise & Black Lava Jeep Tour",
+      "tagline": "Reach the sunrise point by 4WD — no hiking required",
+      "inclusions": [
+        "Jeep Max 3 Pax (Long Jeep Max 5 Pax)",
+        "Private Tour Driver & Jeep",
+        "Entrance Ticket",
+        "Breakfast",
+        "Coffee & Tea",
+        "Travel Insurance",
+        "Blanket Inside the Jeep",
+        "Photo & Video Session"
+      ],
+      "itinerary": [
+        {
+          "time": "04:00",
+          "desc": "Arrive directly at Basecamp"
+        },
+        {
+          "time": "04:00",
+          "desc": "Breakfast (Coffee & Tea + Banana Pancake) and bonfire time"
+        },
+        {
+          "time": "04:30",
+          "desc": "Journey to the sunrise viewpoint begins by 4WD Jeep"
+        },
+        {
+          "time": "05:30",
+          "desc": "Arrive at the Mount Batur sunrise viewpoint"
+        },
+        {
+          "time": "05:45",
+          "desc": "Enjoy the sunrise with breakfast (water & banana sandwich boxed)"
+        },
+        {
+          "time": "06:30",
+          "desc": "Explore the black lava fields of Mount Batur"
+        },
+        {
+          "time": "07:00",
+          "desc": "Head back to Basecamp"
+        },
+        {
+          "time": "08:00",
+          "desc": "Arrive at Basecamp — tour ends"
+        }
+      ]
+    },
+    "p4": {
+      "name": "Black Lava & Black Sand Jeep Tour",
+      "tagline": "A flexible daytime jeep adventure across volcanic terrain",
+      "time": "10:00 AM - 4:00 PM (Flexible)",
+      "inclusions": [
+        "Jeep Max 3 Pax (Long Jeep Max 5 Pax)",
+        "Private Tour Driver & Jeep",
+        "Entrance Ticket",
+        "Lunch / Brunch",
+        "Travel Insurance",
+        "Blanket Inside the Jeep",
+        "Photo & Video Session"
+      ],
+      "itinerary": [
+        {
+          "time": "Start",
+          "desc": "Arrive directly at Basecamp"
+        },
+        {
+          "time": "Go",
+          "desc": "Journey to Black Lava and Black Sand begins by 4WD Jeep"
+        },
+        {
+          "time": "Lava",
+          "desc": "Time to enjoy the Black Lava of Mount Batur"
+        },
+        {
+          "time": "Sand",
+          "desc": "Explore the Black Sand area while enjoying lunch"
+        },
+        {
+          "time": "Return",
+          "desc": "Head back to Basecamp"
+        },
+        {
+          "time": "End",
+          "desc": "Arrive at Basecamp — tour ends"
+        }
+      ]
+    }
+  },
+  "gallery": {
+    "label": "Photo Gallery",
+    "title": "Moments from the Mountain",
+    "subtitle": "A glimpse of what awaits you at Mount Batur — from sunrise summits to volcanic landscapes."
+  },
+  "location": {
+    "label": "Find Us",
+    "title": "Our Location",
+    "subtitle": "Come visit our basecamp in Bayunggede, the heart of Kintamani.",
+    "address_label": "Address",
+    "contact_label": "Contact Person",
+    "phone_label": "Phone / WhatsApp",
+    "open_maps": "Open in Google Maps",
+    "chat_whatsapp": "Chat on WhatsApp"
+  },
+  "footer": {
+    "tagline": "Your trusted guide for Mount Batur adventures.",
+    "quick_links": "Quick Links",
+    "contact": "Contact",
+    "follow": "Follow Us",
+    "rights": "All rights reserved."
+  }
+}
