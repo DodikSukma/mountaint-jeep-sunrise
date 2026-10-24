@@ -1,0 +1,285 @@
+{
+  "seo": {
+    "title": "金塔马尼徒步与吉普车之旅 - 巴图尔火山日出徒步",
+    "description": "在巴厘岛金塔马尼体验巴图尔火山日出徒步与四驱吉普车之旅。专业本地向导带您登顶观日出、泡天然温泉、探索黑色熔岩地貌。立即预订您的冒险之旅。",
+    "keywords": "巴图尔火山徒步,金塔马尼日出,巴厘岛徒步旅行,巴图尔吉普车之旅,黑色熔岩之旅,巴厘岛天然温泉,巴厘岛日出徒步,金塔马尼四驱越野",
+    "og_title": "巴图尔火山日出徒步 - 巴厘岛金塔马尼火山之旅",
+    "og_description": "巴图尔火山日出徒步、天然温泉与四驱吉普车探险。持证本地向导，难忘美景。"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "packages": "套餐",
+    "gallery": "相册",
+    "location": "位置",
+    "book": "立即预订"
+  },
+  "hero": {
+    "badge": "巴厘岛金塔马尼探险之旅",
+    "title_1": "见证壮丽日出",
+    "title_2": "巴图尔火山",
+    "subtitle": "海拔 1,717 米，云端之上，一段难忘的徒步与吉普车之旅。",
+    "cta_primary": "预订您的冒险",
+    "cta_secondary": "浏览套餐",
+    "stats": {
+      "masl": "海拔（米）",
+      "packages": "旅游套餐",
+      "experience": "年运营经验",
+      "travelers": "满意旅客"
+    }
+  },
+  "about": {
+    "label": "关于我们",
+    "title": "Batur Jeep Sunrise and Tracking",
+    "p1": "Batur Jeep Sunrise and Tracking（BJST）是一家扎根于金塔马尼 Bayunggede 村的本地旅游运营商——这里正是通往巴厘岛最具标志性的自然奇观「巴图尔火山」的门户。凭借多年经验，我们持证的专业向导将为您带来安全、地道且难忘的探险体验。",
+    "p2": "无论您想登顶欣赏震撼的日出、在天然温泉中放松身心，还是驾乘四驱吉普车探索火山地貌，我们都为每一位旅行者精心设计了完美的行程。",
+    "features": {
+      "guides_title": "持证向导",
+      "guides_desc": "熟悉每一条山径的本地持证徒步向导。",
+      "safety_title": "安全至上",
+      "safety_desc": "每次出行均配备保险、专业装备与行前讲解。",
+      "local_title": "地道本地",
+      "local_desc": "由金塔马尼本地社区自主拥有并经营。",
+      "flexible_title": "灵活套餐",
+      "flexible_desc": "适合各种节奏、团队规模与预算的选择。"
+    }
+  },
+  "packages": {
+    "label": "我们的行程",
+    "title": "选择您的冒险",
+    "subtitle": "四款精心设计的套餐，契合您的节奏、您的同伴与您的冒险精神。",
+    "inclusions_label": "费用包含",
+    "itinerary_label": "行程安排",
+    "time_label": "时间",
+    "duration_label": "时长",
+    "book_button": "通过 WhatsApp 预订",
+    "view_details": "查看行程",
+    "hide_details": "收起行程",
+    "from": "起价",
+    "price_sharing": "拼团",
+    "price_private": "包团",
+    "per_pax": "/ 每人",
+    "min_pax": "最少 2 人",
+    "popular": "最受欢迎",
+    "flexible_time": "时间灵活",
+    "p1": {
+      "name": "巴图尔火山日出徒步",
+      "tagline": "登顶巴图尔火山，邂逅难忘日出",
+      "inclusions": [
+        "门票",
+        "专业徒步向导",
+        "咖啡与茶",
+        "山顶早餐",
+        "旅游保险"
+      ],
+      "itinerary": [
+        {
+          "time": "03:00",
+          "desc": "接送并直接前往大本营（BASECAMP）"
+        },
+        {
+          "time": "03:15",
+          "desc": "享用早餐（咖啡与茶 + 香蕉煎饼），围坐篝火旁"
+        },
+        {
+          "time": "03:30",
+          "desc": "出发前往登山起点，领取徒步装备（登山杖、头灯）"
+        },
+        {
+          "time": "03:45",
+          "desc": "抵达登山起点，由专业向导进行行前讲解"
+        },
+        {
+          "time": "04:00",
+          "desc": "开始攀登巴图尔火山"
+        },
+        {
+          "time": "06:00",
+          "desc": "抵达山顶观景台——享用早餐（饮用水与香蕉三明治），静候日出"
+        },
+        {
+          "time": "07:00",
+          "desc": "沿火山口边缘继续漫步"
+        },
+        {
+          "time": "07:30",
+          "desc": "开始下山，前往终点"
+        },
+        {
+          "time": "08:00",
+          "desc": "抵达终点，登车返程"
+        },
+        {
+          "time": "08:45",
+          "desc": "返回大本营——行程结束"
+        }
+      ]
+    },
+    "p2": {
+      "name": "巴图尔天然温泉",
+      "tagline": "在火山天然温泉中放松身心",
+      "duration": "2 小时",
+      "inclusions": [
+        "门票",
+        "毛巾",
+        "迎宾饮品",
+        "时长 2 小时"
+      ]
+    },
+    "p3": {
+      "name": "日出与黑色熔岩吉普车之旅",
+      "tagline": "四驱直达日出观景点——无需徒步",
+      "inclusions": [
+        "吉普车最多 3 人（加长版最多 5 人）",
+        "专属司机与吉普车",
+        "门票",
+        "早餐",
+        "咖啡与茶",
+        "旅游保险",
+        "车内毛毯",
+        "拍照与摄像服务"
+      ],
+      "itinerary": [
+        {
+          "time": "04:00",
+          "desc": "直接抵达大本营"
+        },
+        {
+          "time": "04:00",
+          "desc": "享用早餐（咖啡与茶 + 香蕉煎饼）并享受篝火时光"
+        },
+        {
+          "time": "04:30",
+          "desc": "乘四驱吉普车出发前往日出观景点"
+        },
+        {
+          "time": "05:30",
+          "desc": "抵达巴图尔火山日出观景点"
+        },
+        {
+          "time": "05:45",
+          "desc": "享用早餐（饮用水与香蕉三明治餐盒），欣赏日出"
+        },
+        {
+          "time": "06:30",
+          "desc": "探索巴图尔火山的黑色熔岩地带"
+        },
+        {
+          "time": "07:00",
+          "desc": "启程返回大本营"
+        },
+        {
+          "time": "08:00",
+          "desc": "抵达大本营——行程结束"
+        }
+      ]
+    },
+    "p4": {
+      "name": "黑色熔岩与黑沙吉普车之旅",
+      "tagline": "白天出发的灵活吉普车之旅，穿越火山地貌",
+      "time": "10:00 - 16:00（时间灵活）",
+      "inclusions": [
+        "吉普车最多 3 人（加长版最多 5 人）",
+        "专属司机与吉普车",
+        "门票",
+        "午餐 / 早午餐",
+        "旅游保险",
+        "车内毛毯",
+        "拍照与摄像服务"
+      ],
+      "itinerary": [
+        {
+          "time": "出发",
+          "desc": "直接抵达大本营"
+        },
+        {
+          "time": "启程",
+          "desc": "乘四驱吉普车前往黑色熔岩与黑沙区"
+        },
+        {
+          "time": "熔岩",
+          "desc": "尽情欣赏巴图尔火山的黑色熔岩"
+        },
+        {
+          "time": "黑沙",
+          "desc": "探索黑沙区域，同时享用午餐"
+        },
+        {
+          "time": "返程",
+          "desc": "启程返回大本营"
+        },
+        {
+          "time": "结束",
+          "desc": "抵达大本营——行程结束"
+        }
+      ]
+    }
+  },
+  "gallery": {
+    "label": "照片集",
+    "title": "山间时光",
+    "subtitle": "一瞥巴图尔火山等待您的精彩瞬间——从日出山顶到火山地貌。",
+    "photo_count": "{count} 张照片 · 可滑动、点击箭头或使用 ← → 方向键",
+    "view": "查看",
+    "close": "关闭",
+    "prev": "上一张",
+    "next": "下一张",
+    "alt": "巴图尔火山之旅照片 {n}"
+  },
+  "location": {
+    "label": "找到我们",
+    "title": "我们的位置",
+    "subtitle": "欢迎来到我们位于 Bayunggede 的大本营，金塔马尼的心脏地带。",
+    "address_label": "地址",
+    "contact_label": "联系人",
+    "phone_label": "电话 / WhatsApp",
+    "open_maps": "在谷歌地图中打开",
+    "chat_whatsapp": "通过 WhatsApp 联系"
+  },
+  "footer": {
+    "tagline": "您值得信赖的巴图尔火山探险向导。",
+    "quick_links": "快速链接",
+    "contact": "联系方式",
+    "follow": "关注我们",
+    "rights": "版权所有。"
+  },
+  "booking": {
+    "pay_online": "在线支付",
+    "modal_title": "预订 {package}",
+    "modal_subtitle": "填写您的信息，通过 Midtrans 安全支付。",
+    "full_name": "姓名",
+    "full_name_placeholder": "请输入您的姓名",
+    "email": "电子邮箱",
+    "email_placeholder": "you@example.com",
+    "phone": "电话 / WhatsApp",
+    "phone_placeholder": "+86 138 0000 0000",
+    "date": "出行日期",
+    "pax": "人数",
+    "tour_type": "行程类型",
+    "sharing": "拼团",
+    "private": "包团",
+    "total": "合计",
+    "submit": "前往支付",
+    "processing": "处理中…",
+    "cancel": "取消",
+    "close": "关闭",
+    "success_title": "支付成功",
+    "success_desc": "感谢您的预订！我们会尽快通过 WhatsApp 与您确认。",
+    "pending_title": "支付处理中",
+    "pending_desc": "款项到账后，我们会立即为您确认预订。",
+    "error_title": "出错了",
+    "error_desc": "无法发起支付，请重试或通过 WhatsApp 预订。",
+    "required": "请填写所有必填项。",
+    "invalid_email": "请输入有效的电子邮箱地址。",
+    "invalid_date": "请选择今天或之后的日期。",
+    "or": "或"
+  },
+  "testimonials": {
+    "label": "顾客评价",
+    "title": "旅客怎么说",
+    "review_count": "{count} 条谷歌评价",
+    "translated": "由原始评价翻译而来",
+    "read_all": "在谷歌上查看全部评价",
+    "source": "评价内容来自我们的谷歌商家资料。"
+  }
+}

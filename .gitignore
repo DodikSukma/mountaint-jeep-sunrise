@@ -11,6 +11,15 @@ dist
 dist-ssr
 *.local
 
+# Next.js
+.next/
+out/
+next-env.d.ts
+.vercel
+
+# Playwright / test artifacts
+.playwright-mcp/
+
 # Editor
 .vscode/*
 !.vscode/extensions.json
